@@ -1,2 +1,2 @@
-# qr-decomposition
-Eigenvalues and eigenvectors using QR decomposition
+# qr-algorithm
+Eigenvalues and eigenvectors using QR algorithm
